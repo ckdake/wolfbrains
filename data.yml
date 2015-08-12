@@ -371,3 +371,20 @@ people:
     position: Developer
     start_day: 2014-06-01
     end_day:
+- name: Jay Hayes
+  email: ur@iamvery.com
+  url: http://iamvery.com
+  education:
+  - undergraduate: UAH
+    degree: BS Computer Science
+    start_day: 2005-08-01
+    end_day: 2010-05-01
+  jobs:
+  - company: Dynetics
+    position: IT, Computer Analyst ("haha business" for developer)
+    start_day: 2006-01-01
+    end_day: 2013-02-8
+  - company: Big Nerd Ranch
+    position: Developer, Instructor
+    start_day: 2013-02-08
+    end_day:
