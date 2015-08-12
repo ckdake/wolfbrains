@@ -62,3 +62,45 @@ people:
     position: Backend Instructor
     start_day: 2015-06-24
     end_day:
+people:
+- name: Steven Harman
+  email: steven@harmanly.com
+  url: http://stevenharman.net
+  education:
+  - undergraduate: BS Computer Science and Engineering
+    start_day: 1999-09-22
+    end_day: 2004-09-02
+  jobs:
+  - company: United Stated Department of the Interior
+    position: IT Specialist
+    start_day: 2001-06-01
+    end_day: 2004-06-14
+  - company: JPMorgan Chase
+    position: Application Developer
+    start_day: 2004-06-15
+    end_day: 2006-05-01
+  - company: Veloc-IT
+    position: Lead Developer
+    start_day: 2006-05-02
+    end_day: 2007-09-01
+  - company: Quick Solutions
+    position: Senior Developer
+    start_day: 2007-09-02
+    end_day: 2009-02-13
+  - company: VersionOne
+    position: Developer and Agent of Change
+    start_day: 2009-02-16
+    end_day: 2012-02-03
+  - company: Highgroove Studios
+    position: Developer and Developerer
+    start_day: 2012-02-06
+    end_day: 2012-11-01
+  - company: Big Nerd Ranch
+    position: Director of Engineering, Backend Web
+    start_day: 2012-11-01
+    end_day: 2015-08-21
+  - company: DirtJockey
+    position: Co-founder
+    start_day: 2015-08-21
+    end_day:
+
