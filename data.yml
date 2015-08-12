@@ -267,7 +267,7 @@ people:
     end_day: 2013-09-10
   - company: Mandiant / FireEye
     position: Senior Software Engineer - Malware Analysis
-    start_day; 2013-09-10
+    start_day: 2013-09-10
     end_day: 2014-04-10
   - company: Peak Hosting
     position: Senior Software Engineer / Engineering Manager
