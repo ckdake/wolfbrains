@@ -32,3 +32,36 @@ people:
     position: Software Engineering Manager
     start_day: 2015-01-16
     end_day:
+- name: Will Farrington
+  email: wcfarrington@gmail.com
+  url: http://willfarrington.com/
+  education:
+  - undergraduate: Georgia Tech
+    studied: Computer Science
+    start_day: 2008-06-25
+    end_day: 2012-05-22
+  jobs:
+  - company: Rails Machine
+    position: Engineer
+    start_day: 2009-06-15
+    end_day: 2011-12-01
+  - company: Highgroove Studios
+    position: Developer
+    start_day: 2012-01-01
+    end_day: 2012-05-15
+  - company: GitHub
+    position: Operations Engineer
+    start_day: 2012-05-28
+    end_day: 2014-05-28
+  - company: DigitalOcean
+    position: Site Reliability Engineer
+    start_day: 2015-06-09
+    end_day: 2015-12-15
+  - company: Operable
+    position: Engineer
+    start_day: 2015-03-01
+    end_day: 2015-05-15
+  - company: Will Farrington
+    position: Independent Contractor
+    start_day: 2015-08-28
+    end_day:
