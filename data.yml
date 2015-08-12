@@ -236,3 +236,44 @@ people:
     position: Developer
     start_day: 2012-06-01
     end_day:
+- name: David Worth
+  email: fixintheworld@gmail.com
+  url: http://daveworth.github.io/
+  education:
+  - undergraduate: University of New Mexico
+    degree: BS Mathematics
+    start_day:
+    end_day:
+  - graduate: University of New Mexico
+    degree: MS Mathematics
+    start_day:
+    end_day:
+  jobs:
+  - company: Linium
+    position: Solutions Engineer
+    start_day: 2007-02-01
+    end_day: 2008-03-31
+  - company: University of Tennessee
+    position: Network Engineer
+    start_day: 2008-04-01
+    end_day: 2011-08-15
+  - company: Highgroove Studios
+    position: Developer
+    start_day: 2011-08-16
+    end_day: 2012-11-01
+  - company: Big Nerd Ranch
+    position: Developer and Security Engineer
+    start_day: 2012-11-01
+    end_day: 2013-09-10
+  - company: Mandiant / FireEye
+    position: Senior Software Engineer - Malware Analysis
+    start_day; 2013-09-10
+    end_day: 2014-04-10
+  - company: Peak Hosting
+    position: Senior Software Engineer / Engineering Manager
+    start_day: 2014-04-10
+    end_day: 2014-10-15
+  - company: DigitalOcean
+    position: Software Engineer -> Engineering Manager
+    start_day: 2014-10-15
+    end_day:
