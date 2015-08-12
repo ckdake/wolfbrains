@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Wolfbrains</title>
+<script type="text/javascript" src="yaml.min.js"></script>
+<script type="text/javascript">
+YAML.load('http://ckdake.github.io/wolfbrains/data.yml', function(result)
+{
+    nativeObject = result;
+    console.log(nativeObject);
+    nativeObject.people.forEach(function(entry) {
+	var txt = document.createTextNode(entry['name'] + ", ");
+	document.getElementById('wolfbrains').appendChild(txt);
+    });
+});
+</script>
+</head>
+<body>
+<h1>One(s) of Us</h1>
+<div id="wolfbrains">
+</div>
+</body>
