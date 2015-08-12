@@ -32,3 +32,33 @@ people:
     position: Software Engineering Manager
     start_day: 2015-01-16
     end_day:
+people:
+- name: Kurt Nelson
+  email: kurtisnelson@gmail.com
+  url: http://thisisnotajoke.com
+  education:
+  - undergraduate: Georgia Tech
+    degree: BS Computer Science
+    start_day: 2009-08-01
+    end_day: 2014-05-01
+  jobs:
+  - company: Georgia Tech Research Institute
+    position: Co-op
+    start_day: 2011-05-15
+    end_day: 2012-08-01
+  - company: Highgroove Studios
+    position: Developer
+    start_day: 2012-08-14
+    end_day: 2012-11-01
+  - company: Big Nerd Ranch
+    position: Developer & Instructor
+    start_day: 2012-11-01
+    end_day: 2014-12-18
+  - company: Monsieur
+    position: Senior Android Developer
+    start_day: 2015-01-8
+    end_day: 2015-05-01
+  - company: The Iron Yard
+    position: Backend Instructor
+    start_day: 2015-06-24
+    end_day:
