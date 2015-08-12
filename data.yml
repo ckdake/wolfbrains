@@ -277,6 +277,35 @@ people:
     position: Software Engineer -> Engineering Manager
     start_day: 2014-10-15
     end_day:
+- name: Blithe Rocher
+  email: blithe@blitherocher.com
+  url: http://blitherocher.com/
+  education:
+  - undergraduate: Southwestern University
+    degree: BS Chemistry
+    start_day: 2002-08-01
+    end_day: 2005-05-01
+  - graduate: University of Southern California
+    degree: PhD Physical Chemistry
+    start_day: 2005-08-01
+    end_day: 20011-05-01
+  jobs:
+  - company: Emory University
+    position: Postdoctoral Fellow
+    start_day: 2011-06-11
+    end_day: 2013-05-10
+  - company: Big Nerd Ranch
+    position: Developer Intern, Web Application Developer
+    start_day: 2013-05-13
+    end_day: 2014-10-14
+  - company: The Groundwork
+    position: Software Engineer
+    start_day: 2014-10-20
+    end_day: 2015-07-10
+  - company: Fastly
+    position: Software Engineer
+    start_day: 2015-07-20
+    end_day:
 - name: Zac Stewart
   email: zgstewart@gmail.com
   url: http://zacstewart.com
