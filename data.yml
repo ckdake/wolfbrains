@@ -1,0 +1,33 @@
+ckdake:
+  email: ckdake@ckdake.com
+  education:
+  - undergraduate: Georgia Tech
+    degree: BS Computer Science
+    start_day: 2001-08-01
+    end_day: 2006-05-01
+  - graduate: Georgia Tech
+    degree: MS Computer Science
+    start_day: 2006-08-01
+    end_day: 2007-12-01
+  jobs:
+  - company: Google
+    position: Platforms Networking Intern
+    start_day: 2008-05-15
+    end_day: 2008-08-15
+  - company: SugarCRM
+    position: NOC Manager and Operations Engineer
+    start_day: 2008-12-21
+    end_day: 2010-07-16
+  - company: Highgroove Studios
+    position: Developer and Methodologist
+    start_day: 2010-07-16
+    end_day: 2012-11-01
+  - company: Big Nerd Ranch
+    position: Director, Internal Operations
+    start_day: 2012-11-01
+    end_day: 2015-01-16
+  - company: Salesforce Pardot
+    position: Software Engineering Manager
+    start_day: 2015-01-16
+    end_day
+  
