@@ -61,4 +61,36 @@ people:
   - company: The Iron Yard
     position: Backend Instructor
     start_day: 2015-06-24
+- name: Pamela O. Vickers
+  email: pwnela@gmail.com
+  url: http://pwnela.com/
+  education:
+  - undergraduate: Georgia Tech
+    degree: BS Computer Science
+    start_day: 2008-01-01
+    end_day: 2009-12-15
+  jobs:
+  - company: Georgia Pacific
+    position: Deskside and Remote Technology Services Co-op
+    start_day: 2008-03-01
+    end_day: 2008-08-15
+  - company: Vocalicty (now a Vonage company)
+    position: QA/Project Management Intern
+    start_day: 2009-05-01
+    end_day: 2010-02-01
+  - company: Nagravision
+    position: Software Engineer
+    start_day: 2010-02-01
+    end_day: 2011-11-07
+  - company: Highgroove Studios
+    position: Developer
+    start_day: 2011-11-07
+    end_day: 2012-11-01
+  - company: Big Nerd Ranch
+    position: Developer
+    start_day: 2012-11-01
+    end_day: 2014-11-01
+  - company: Blue Bottle Coffee
+    position: Software Engineer
+    start_day: 2014-11-01
     end_day:
