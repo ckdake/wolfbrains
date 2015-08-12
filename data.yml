@@ -166,6 +166,55 @@ people:
     position: Independent Contractor
     start_day: 2015-08-28
     end_day:
+- name: Aubrey Rhodes
+  email:
+  url: http://acrhodes.com/
+  education:
+  - undergraduate: Georgia Tech
+    degree: BS Computer Science
+    start_day: 2005-08-01
+    end_day: 2010-05-01
+  jobs:
+  - company: The Zac Team
+    position: IT Intern
+    start_day: 2006-01-01
+    end_day: 2006-05-01
+  - company: TaxSlayer
+    position: Junior Software Dev
+    start_day: 2006-08-01
+    end_day: 2007-01-01
+  - company: Hannon Hill
+    position: Junior Software Dev
+    start_day: 2007-05-01
+    end_day: 2010-04-01
+  - company: Factset Research Systems
+    position: Systems Analyst
+    start_day: 2010-07-01
+    end_day: 2011-07-01
+  - company: HCL / T-Mobile
+    position: Software Devloper
+    start_day: 2011-07-15
+    end_day: 2011-10-1
+  - compay: Highgroove Studios
+    position: Developer and Developer Evangalist
+    start_day: 2011-10-3
+    end_day: 2012-11-1
+  - compay: Big Nerd Ranch
+    position: Director of Consulting Operations
+    start_day: 2012-11-1
+    end_day: 2014-07-15
+  - compay: Blue Bottle Coffee
+    position: Software Developer
+    start_day: 2014-10-1
+    end_day: 2015-02-15
+  - compay: Roadie
+    position: Lead Backend Developer
+    start_day: 2015-03-15
+    end_day: 2015-07-10
+  - compay: Mailchimp
+    position: Software Engineer
+    start_day: 2015-07-20
+    end_day:
 - name: Mike Skalnik
   email: mike.skalnik@gmail.com
   url: http://mikeskalnik.com
@@ -186,4 +235,4 @@ people:
   - company: GitHub
     position: Developer
     start_day: 2012-06-01
-    end_day: 
+    end_day:
