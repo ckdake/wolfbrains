@@ -172,7 +172,7 @@ people:
   education:
   - undergraduate: Georgia Tech
     studied: BS Computer Science
-    start_day: 2008-06-25
+    start_day: 2008-08-01
     end_day: 2012-05-22
   jobs:
   - company: Rails Machine
