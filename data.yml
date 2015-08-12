@@ -32,7 +32,6 @@ people:
     position: Software Engineering Manager
     start_day: 2015-01-16
     end_day:
-people:
 - name: Kurt Nelson
   email: kurtisnelson@gmail.com
   url: http://thisisnotajoke.com
@@ -94,7 +93,6 @@ people:
     position: Software Engineer
     start_day: 2014-11-01
     end_day:
-people:
 - name: Steven Harman
   email: steven@harmanly.com
   url: http://stevenharman.net
