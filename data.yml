@@ -267,7 +267,7 @@ people:
     end_day: 2013-09-10
   - company: Mandiant / FireEye
     position: Senior Software Engineer - Malware Analysis
-    start_day; 2013-09-10
+    start_day: 2013-09-10
     end_day: 2014-04-10
   - company: Peak Hosting
     position: Senior Software Engineer / Engineering Manager
@@ -306,3 +306,35 @@ people:
     position: Software Engineer
     start_day: 2015-07-20
     end_day:
+- name: Zac Stewart
+  email: zgstewart@gmail.com
+  url: http://zacstewart.com
+  jobs:
+  - company: NeboWeb (now Nebo Agency)
+    position: Web Developer Intern
+    start_day: 2010-09-01
+    end_day: 2011-07-6
+  - company: Emcien
+    position: Software Engineer
+    start_day: 2011-07-11
+    end_day: 2012-07-25
+  - company: Highgroove Studios
+    position: Developer
+    start_day: 2012-08-01
+    end_day: 2012-11-01
+  - company: Big Nerd Ranch
+    position: Developer, Instructor
+    start_day: 2012-11-01
+    end_day: 2015-02-24
+  - company: Springbot
+    position: Senior Developer
+    start_day: 2015-02-25
+    end_day: 2015-04-30
+  - company: Self
+    position: Software Consultant
+    start_day: 2015-05-01
+    end_day: 2015-08-12
+  - company: DirtJockey
+    position: Co-Founder
+    start_day: 2015-08-12
+    end_day: 
