@@ -167,7 +167,7 @@ people:
     start_day: 2015-08-28
     end_day:
 - name: Aubrey Rhodes
-  email: 
+  email:
   url: http://acrhodes.com/
   education:
   - undergraduate: Georgia Tech
@@ -215,5 +215,24 @@ people:
     position: Software Engineer
     start_day: 2015-07-20
     end_day:
-    
-
+- name: Mike Skalnik
+  email: mike.skalnik@gmail.com
+  url: http://mikeskalnik.com
+  education:
+  - undergraduate: Georgia Tech
+    studied: BS Computer Science
+    start_day: 2008-08-01
+    end_day: 2012-05-22
+  jobs:
+  - company: Rails Machine
+    position: Awesomeness Engineer
+    start_day: 2009-09-20
+    end_day: 2011-03-24
+  - company: Highgroove Studios
+    position: Developer
+    start_day: 2011-03-25
+    end_day: 2012-05-30
+  - company: GitHub
+    position: Developer
+    start_day: 2012-06-01
+    end_day:
