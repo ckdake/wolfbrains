@@ -11,7 +11,7 @@
     var dataStore = {};
     var currentYear = new Date().getFullYear();
     var theBrains = document.getElementById('wolfbrains');
-    YAML.load('data.yml', function(result)
+    YAML.load('http://ckdake.github.io/wolfbrains/data.yml', function(result)
     {
         nativeObject = result;
         nativeObject.people.forEach(function(peopleEntry) {
