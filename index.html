@@ -29,6 +29,27 @@
               dataStore[year][company].push(peopleEntry);
             }
           });
+          if (peopleEntry.education) {
+            peopleEntry.education.forEach(function(schoolEntry) {
+              var school = schoolEntry['undergraduate'];
+              if (school == null) { school = schoolEntry['graduate'] }
+              if (schoolEntry['start_day'] != null) {
+                var startYear = schoolEntry['start_day'].getFullYear();
+              }
+              var endYear = currentYear;
+              if (schoolEntry['end_day'] != null) {
+                  endYear = schoolEntry['end_day'].getFullYear();
+              }
+
+              if (startYear != null && endYear != null) {
+                for (year = startYear; year <= endYear; year++) {
+                  if (!(dataStore.hasOwnProperty(year))) { dataStore[year] = {} };
+                  if (!(dataStore[year].hasOwnProperty(school))) { dataStore[year][school] = [] };
+                  dataStore[year][school].push(peopleEntry);
+                }
+              }
+            });
+          }
         });
 
         Object.keys(dataStore).forEach(function(year) {
@@ -40,9 +61,7 @@
             var companyLabel = document.createElement('div');
             companyLabel.appendChild(document.createTextNode(company + ":"));
 
-
             dataStore[year][company].forEach(function(person) {
-              console.log(person)
               var personLink = document.createElement('a');
               personLink.setAttribute('href', person['url']);
               var personImage = document.createElement('img');
