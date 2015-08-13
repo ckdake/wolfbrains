@@ -11,7 +11,7 @@
     var dataStore = {};
     var currentYear = new Date().getFullYear();
     var theBrains = document.getElementById('wolfbrains');
-    YAML.load('http://ckdake.github.io/wolfbrains/data.yml', function(result)
+    YAML.load('data.yml', function(result)
     {
         nativeObject = result;
         nativeObject.people.forEach(function(peopleEntry) {
@@ -30,22 +30,23 @@
             }
           });
           if (peopleEntry.education) {
-            peopleEntry.education.forEach(function(schoolEntry) {
-              var school = schoolEntry['undergraduate'];
-              if (school == null) { school = schoolEntry['graduate'] }
-              if (schoolEntry['start_day'] != null) {
-                var startYear = schoolEntry['start_day'].getFullYear();
+            peopleEntry.education.forEach(function(educationEntry) {
+              var institution = educationEntry['institution'];
+
+              if (educationEntry['start_day'] != null) {
+                var startYear = educationEntry['start_day'].getFullYear();
               }
+
               var endYear = currentYear;
-              if (schoolEntry['end_day'] != null) {
-                  endYear = schoolEntry['end_day'].getFullYear();
+              if (educationEntry['end_day'] != null) {
+                  endYear = educationEntry['end_day'].getFullYear();
               }
 
               if (startYear != null && endYear != null) {
                 for (year = startYear; year <= endYear; year++) {
                   if (!(dataStore.hasOwnProperty(year))) { dataStore[year] = {} };
-                  if (!(dataStore[year].hasOwnProperty(school))) { dataStore[year][school] = [] };
-                  dataStore[year][school].push(peopleEntry);
+                  if (!(dataStore[year].hasOwnProperty(institution))) { dataStore[year][institution] = [] };
+                  dataStore[year][institution].push(peopleEntry);
                 }
               }
             });
