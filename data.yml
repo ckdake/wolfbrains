@@ -215,23 +215,23 @@ people:
     position: Software Devloper
     start_day: 2011-07-15
     end_day: 2011-10-1
-  - compay: Highgroove Studios
+  - company: Highgroove Studios
     position: Developer and Developer Evangalist
     start_day: 2011-10-3
     end_day: 2012-11-1
-  - compay: Big Nerd Ranch
+  - company: Big Nerd Ranch
     position: Director of Consulting Operations
     start_day: 2012-11-1
     end_day: 2014-07-15
-  - compay: Blue Bottle Coffee
+  - company: Blue Bottle Coffee
     position: Software Developer
     start_day: 2014-10-1
     end_day: 2015-02-15
-  - compay: Roadie
+  - company: Roadie
     position: Lead Backend Developer
     start_day: 2015-03-15
     end_day: 2015-07-10
-  - compay: Mailchimp
+  - company: Mailchimp
     position: Software Engineer
     start_day: 2015-07-20
     end_day:
