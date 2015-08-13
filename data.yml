@@ -457,3 +457,32 @@ people:
     position: Developer
     start_day: 2014-08-06
     end_day:
+name: Marcus Owens
+  email: marcusowens@gmail.com
+  url: http://re.vu/mowens
+  education:
+  - undergraduate: University of Georgia
+    degree: BA International Affairs
+    start_day: 2003-08-01
+    end_day: 2006-12-31
+  jobs:
+  - company: Optimus Solutions/Softchoice
+    position: Sales / MS Licensing Specialist / Technical Service Advisor
+    start_day: 2007-01-01
+    end_day: 2011-07-15
+  - company: United Technology Groun
+    position: Sales Engineer
+    start_day: 2011-07-18
+    end_day: 2011-12-15
+  - company: Corus 360
+    position: Account Executive
+    start_day: 2012-01-01
+    end_day: 2013-09-30
+  - company: Big Nerd Ranch
+    position: Project Strategist
+    start_day: 2013-10-01
+    end_day: 2014-06-13
+  - company: Digital Insight / NCR
+    position: Solution Architect
+    start_day: 2014-07-21
+    end_day: 
