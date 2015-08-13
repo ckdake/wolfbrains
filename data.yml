@@ -3,11 +3,11 @@ people:
   email: ckdake@ckdake.com
   url: http://ckdake.com/
   education:
-  - undergraduate: Georgia Tech
+  - institution: Georgia Tech
     degree: BS Computer Science
     start_day: 2001-08-01
     end_day: 2006-05-01
-  - graduate: Georgia Tech
+  - institution: Georgia Tech
     degree: MS Computer Science
     start_day: 2006-08-01
     end_day: 2007-12-01
@@ -56,7 +56,7 @@ people:
   email: kurtisnelson@gmail.com
   url: http://thisisnotajoke.com
   education:
-  - undergraduate: Georgia Tech
+  - institution: Georgia Tech
     degree: BS Computer Science
     start_day: 2009-08-01
     end_day: 2014-05-01
@@ -84,7 +84,7 @@ people:
   email: pwnela@gmail.com
   url: http://pwnela.com/
   education:
-  - undergraduate: Georgia Tech
+  - institution: Georgia Tech
     degree: BS Computer Science
     start_day: 2008-01-01
     end_day: 2009-12-15
@@ -117,7 +117,7 @@ people:
   email: steven@harmanly.com
   url: http://stevenharman.net
   education:
-  - undergraduate: BS Computer Science and Engineering
+  - institution: BS Computer Science and Engineering
     start_day: 1999-09-22
     end_day: 2004-09-02
   jobs:
@@ -157,7 +157,7 @@ people:
   email: wcfarrington@gmail.com
   url: http://willfarrington.com/
   education:
-  - undergraduate: Georgia Tech
+  - institution: Georgia Tech
     studied: Computer Science
     start_day: 2008-06-25
     end_day: 2012-05-22
@@ -190,7 +190,7 @@ people:
   email: example@example.com
   url: http://acrhodes.com/
   education:
-  - undergraduate: Georgia Tech
+  - institution: Georgia Tech
     degree: BS Computer Science
     start_day: 2005-08-01
     end_day: 2010-05-01
@@ -239,7 +239,7 @@ people:
   email: mike.skalnik@gmail.com
   url: http://mikeskalnik.com
   education:
-  - undergraduate: Georgia Tech
+  - institution: Georgia Tech
     studied: BS Computer Science
     start_day: 2008-08-01
     end_day: 2012-05-22
@@ -260,11 +260,11 @@ people:
   email: fixintheworld@gmail.com
   url: http://daveworth.github.io/
   education:
-  - undergraduate: University of New Mexico
+  - institution: University of New Mexico
     degree: BS Mathematics
     start_day:
     end_day:
-  - graduate: University of New Mexico
+  - institution: University of New Mexico
     degree: MS Mathematics
     start_day:
     end_day:
@@ -301,11 +301,11 @@ people:
   email: blithe@blitherocher.com
   url: http://blitherocher.com/
   education:
-  - undergraduate: Southwestern University
+  - institution: Southwestern University
     degree: BS Chemistry
     start_day: 2002-08-01
     end_day: 2005-05-01
-  - graduate: University of Southern California
+  - institution: University of Southern California
     degree: PhD Physical Chemistry
     start_day: 2005-08-01
     end_day: 2011-05-01
@@ -362,15 +362,15 @@ people:
   email: charlie.tanksley@gmail.com
   url: http://tanksley.me
   education:
-  - undergraduate: Samford University
+  - institution: Samford University
     degree: BA Philosophy
     start_day:
     end_day:
-  - graduate: Texas A&M University
+  - institution: Texas A&M University
     degree: MA Philosophy
     start_day:
     end_day:
-  - graduate: University of Virginia
+  - institution: University of Virginia
     degree: Ph.D. Philosophy
     start_day:
     end_day:
@@ -395,7 +395,7 @@ people:
   email: ur@iamvery.com
   url: http://iamvery.com
   education:
-  - undergraduate: UAH
+  - institution: UAH
     degree: BS Computer Science
     start_day: 2005-08-01
     end_day: 2010-05-01
@@ -412,11 +412,11 @@ people:
   email: gschorkopf@gmail.com
   url: http://four-point-play.com
   education:
-  - undergraduate: Emory University
+  - institution: Emory University
     degree: BA Economics
     start_day: 2007-08-30
     end_day: 2011-05-08
-  - software_school: Turing (formerly gSchool)
+  - institution: Turing (formerly gSchool)
     start_day: 2013-01-28
     end_day: 2013-07-20
   jobs:
@@ -432,11 +432,11 @@ people:
   email: greggroth@gmail.com
   url: https://github.com/greggroth
   education:
-  - undergraduate: Georgia State
+  - institution: Georgia State
     degree: BA Philosophy
     start_day: 2005-08-01
     end_day: 2009-08-01
-  - graduate: Georgia State
+  - institution: Georgia State
     degree: MS Physics
     start_day: 2009-08-01
     end_day: 2012-05-01
@@ -461,7 +461,7 @@ people:
   email: marcusowens@gmail.com
   url: http://re.vu/mowens
   education:
-  - undergraduate: University of Georgia
+  - institution: University of Georgia
     degree: BA International Affairs
     start_day: 2003-08-01
     end_day: 2006-12-31
