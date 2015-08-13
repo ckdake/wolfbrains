@@ -408,3 +408,23 @@ people:
     position: Developer, Instructor
     start_day: 2013-02-08
     end_day:
+- name: Geoffrey Schorkopf
+  email: gschorkopf@gmail.com
+  url: http://four-point-play.com
+  education:
+  - undergraduate: Emory University
+    degree: BA Economics
+    start_day: 2007-08-30
+    end_day: 2011-05-08
+  - software_school: Turing (formerly gSchool)
+    start_day: 2013-01-28
+    end_day: 2013-07-20
+  jobs:
+  - company: Google
+    position: Policy Sales Associate
+    start_day: 2011-08-01
+    end_day: 2013-01-25
+  - company: Big Nerd Ranch
+    position: Developer / Coffee-maker
+    start_day: 2013-09-04
+    end_day:
