@@ -167,7 +167,7 @@ people:
     start_day: 2015-08-28
     end_day:
 - name: Aubrey Rhodes
-  email:
+  email: example@example.com
   url: http://acrhodes.com/
   education:
   - undergraduate: Georgia Tech

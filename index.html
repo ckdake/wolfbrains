@@ -1,22 +1,65 @@
 <html>
 <head>
 <title>Wolfbrains</title>
+<style type="text/css">
+  img { border-radius: 15px; width: 25px; height: 25px; display: inline;}
+</style>
 <script type="text/javascript" src="yaml.min.js"></script>
+<script type="text/javascript" src="gravatar.js"></script>
 <script type="text/javascript">
-YAML.load('http://ckdake.github.io/wolfbrains/data.yml', function(result)
-{
-    nativeObject = result;
-    console.log(nativeObject);
-    nativeObject.people.forEach(function(entry) {
-	var txt = document.createTextNode(entry['name'] + ", ");
-	document.getElementById('wolfbrains').appendChild(txt);
+  document.addEventListener("DOMContentLoaded", function(event) {
+    var dataStore = {};
+    var currentYear = new Date().getFullYear();
+    var theBrains = document.getElementById('wolfbrains');
+    YAML.load('http://ckdake.github.io/wolfbrains/data.yml', function(result)
+    {
+        nativeObject = result;
+        nativeObject.people.forEach(function(peopleEntry) {
+          peopleEntry.jobs.forEach(function(jobEntry) {
+            var company = jobEntry['company'];
+            var startYear = jobEntry['start_day'].getFullYear();
+            var endYear = currentYear;
+            if (jobEntry['end_day'] != null) {
+                endYear = jobEntry['end_day'].getFullYear();
+            }
+
+            for (year = startYear; year <= endYear; year++) {
+              if (!(dataStore.hasOwnProperty(year))) { dataStore[year] = {} };
+              if (!(dataStore[year].hasOwnProperty(company))) { dataStore[year][company] = [] };
+              dataStore[year][company].push(peopleEntry);
+            }
+          });
+        });
+
+        Object.keys(dataStore).forEach(function(year) {
+          var yearLabel = document.createElement('h2');
+          yearLabel.appendChild(document.createTextNode(year));
+          theBrains.appendChild(yearLabel);
+
+          Object.keys(dataStore[year]).forEach(function(company) {
+            var companyLabel = document.createElement('div');
+            companyLabel.appendChild(document.createTextNode(company + ":"));
+
+
+            dataStore[year][company].forEach(function(person) {
+              console.log(person)
+              var personLink = document.createElement('a');
+              personLink.setAttribute('href', person['url']);
+              var personImage = document.createElement('img');
+              personImage.setAttribute('src', gravatar(person['email']));
+              personLink.appendChild(personImage);
+              companyLabel.appendChild(personLink);
+            });
+            theBrains.appendChild(companyLabel);
+          });
+        });
     });
-});
+  });
 </script>
 </head>
 <body>
 <h1>One(s) of Us</h1>
-<div id="wolfbrains">
-</div>
+<ul id="wolfbrains">
+</ul>
 <a href="https://github.com/ckdake/wolfbrains">go here to contribute</a>
 </body>
