@@ -457,7 +457,7 @@ people:
     position: Developer
     start_day: 2014-08-06
     end_day:
-name: Marcus Owens
+- name: Marcus Owens
   email: marcusowens@gmail.com
   url: http://re.vu/mowens
   education:
