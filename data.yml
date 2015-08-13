@@ -428,3 +428,32 @@ people:
     position: Developer / Coffee-maker
     start_day: 2013-09-04
     end_day:
+- name: Greggory Rothmeier
+  email: greggroth@gmail.com
+  url: https://github.com/greggroth
+  education:
+  - undergraduate: Georgia State
+    degree: BA Philosophy
+    start_day: 2005-08-01
+    end_day: 2009-08-01
+  - graduate: Georgia State
+    degree: MS Physics
+    start_day: 2009-08-01
+    end_day: 2012-05-01
+  jobs:
+  - company: Highgroove Studios
+    position: Developer
+    start_day: 2012-05-01
+    end_day: 2012-11-01
+  - company: Big Nerd Ranch
+    position: Developer
+    start_day: 2012-11-01
+    end_day: 2014-02-01
+  - company: Goodsearch
+    position: Developer
+    start_day: 2014-02-01
+    end_day: 2014-08-06
+  - company: Blue Bottle Coffee
+    position: Developer
+    start_day: 2014-08-06
+    end_day:
