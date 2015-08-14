@@ -1,0 +1,758 @@
+{
+  "people": [
+    {
+      "education": [
+        {
+          "degree": "BS Computer Science",
+          "end_day": "2006-05-01T00:00:00.000Z",
+          "institution": "Georgia Tech",
+          "start_day": "2001-08-01T00:00:00.000Z"
+        },
+        {
+          "degree": "MS Computer Science",
+          "end_day": "2007-12-01T00:00:00.000Z",
+          "institution": "Georgia Tech",
+          "start_day": "2006-08-01T00:00:00.000Z"
+        }
+      ],
+      "email": "ckdake@ckdake.com",
+      "jobs": [
+        {
+          "company": "Georgia Tech Student Center",
+          "end_day": "2004-08-01T00:00:00.000Z",
+          "position": "IT Manager",
+          "start_day": "2002-08-01T00:00:00.000Z"
+        },
+        {
+          "company": "WebConnect",
+          "end_day": "2004-08-01T00:00:00.000Z",
+          "position": "Linux Server Administrator",
+          "start_day": "2004-01-01T00:00:00.000Z"
+        },
+        {
+          "company": "The Fulcrum Group",
+          "end_day": "2006-12-31T00:00:00.000Z",
+          "position": "Security Engineer",
+          "start_day": "2004-08-01T00:00:00.000Z"
+        },
+        {
+          "company": "CollegeMedium",
+          "end_day": "2006-12-31T00:00:00.000Z",
+          "position": "CTO",
+          "start_day": "2006-01-01T00:00:00.000Z"
+        },
+        {
+          "company": "Georgia Tech",
+          "end_day": "2007-12-31T00:00:00.000Z",
+          "position": "Graduate Research Assistant",
+          "start_day": "2005-08-01T00:00:00.000Z"
+        },
+        {
+          "company": "Google",
+          "end_day": "2007-08-15T00:00:00.000Z",
+          "position": "Platforms Networking Intern",
+          "start_day": "2007-05-15T00:00:00.000Z"
+        },
+        {
+          "company": "SugarCRM",
+          "end_day": "2010-07-16T00:00:00.000Z",
+          "position": "NOC Manager and Operations Engineer",
+          "start_day": "2008-01-21T00:00:00.000Z"
+        },
+        {
+          "company": "Highgroove Studios",
+          "end_day": "2012-11-01T00:00:00.000Z",
+          "position": "Developer and Methodologist",
+          "start_day": "2010-07-16T00:00:00.000Z"
+        },
+        {
+          "company": "Big Nerd Ranch",
+          "end_day": "2015-01-16T00:00:00.000Z",
+          "position": "Director, Internal Operations",
+          "start_day": "2012-11-01T00:00:00.000Z"
+        },
+        {
+          "company": "Salesforce Pardot",
+          "end_day": null,
+          "position": "Software Engineering Manager",
+          "start_day": "2015-01-16T00:00:00.000Z"
+        }
+      ],
+      "name": "Chris Kelly",
+      "url": "http://ckdake.com/"
+    },
+    {
+      "education": [
+        {
+          "degree": "BS Computer Science",
+          "end_day": "2014-05-01T00:00:00.000Z",
+          "institution": "Georgia Tech",
+          "start_day": "2009-08-01T00:00:00.000Z"
+        }
+      ],
+      "email": "kurtisnelson@gmail.com",
+      "jobs": [
+        {
+          "company": "Georgia Tech Research Institute",
+          "end_day": "2012-08-01T00:00:00.000Z",
+          "position": "Co-op",
+          "start_day": "2011-05-15T00:00:00.000Z"
+        },
+        {
+          "company": "Highgroove Studios",
+          "end_day": "2012-11-01T00:00:00.000Z",
+          "position": "Developer",
+          "start_day": "2012-08-14T00:00:00.000Z"
+        },
+        {
+          "company": "Big Nerd Ranch",
+          "end_day": "2014-12-18T00:00:00.000Z",
+          "position": "Developer & Instructor",
+          "start_day": "2012-11-01T00:00:00.000Z"
+        },
+        {
+          "company": "Monsieur",
+          "end_day": "2015-05-01T00:00:00.000Z",
+          "position": "Senior Android Developer",
+          "start_day": "2015-01-08T00:00:00.000Z"
+        },
+        {
+          "company": "The Iron Yard",
+          "position": "Backend Instructor",
+          "start_day": "2015-06-24T00:00:00.000Z"
+        }
+      ],
+      "name": "Kurt Nelson",
+      "url": "http://thisisnotajoke.com"
+    },
+    {
+      "education": [
+        {
+          "degree": "BS Computer Science",
+          "end_day": "2009-12-15T00:00:00.000Z",
+          "institution": "Georgia Tech",
+          "start_day": "2008-01-01T00:00:00.000Z"
+        }
+      ],
+      "email": "pwnela@gmail.com",
+      "jobs": [
+        {
+          "company": "Georgia Pacific",
+          "end_day": "2008-08-15T00:00:00.000Z",
+          "position": "Deskside and Remote Technology Services Co-op",
+          "start_day": "2008-03-01T00:00:00.000Z"
+        },
+        {
+          "company": "Vocalicty (now a Vonage company)",
+          "end_day": "2010-02-01T00:00:00.000Z",
+          "position": "QA/Project Management Intern",
+          "start_day": "2009-05-01T00:00:00.000Z"
+        },
+        {
+          "company": "Nagravision",
+          "end_day": "2011-11-07T00:00:00.000Z",
+          "position": "Software Engineer",
+          "start_day": "2010-02-01T00:00:00.000Z"
+        },
+        {
+          "company": "Highgroove Studios",
+          "end_day": "2012-11-01T00:00:00.000Z",
+          "position": "Developer",
+          "start_day": "2011-11-07T00:00:00.000Z"
+        },
+        {
+          "company": "Big Nerd Ranch",
+          "end_day": "2014-11-01T00:00:00.000Z",
+          "position": "Developer",
+          "start_day": "2012-11-01T00:00:00.000Z"
+        },
+        {
+          "company": "Blue Bottle Coffee",
+          "end_day": null,
+          "position": "Software Engineer",
+          "start_day": "2014-11-01T00:00:00.000Z"
+        }
+      ],
+      "name": "Pamela O. Vickers",
+      "url": "http://pwnela.com/"
+    },
+    {
+      "education": [
+        {
+          "end_day": "2004-09-02T00:00:00.000Z",
+          "institution": "BS Computer Science and Engineering",
+          "start_day": "1999-09-22T00:00:00.000Z"
+        }
+      ],
+      "email": "steven@harmanly.com",
+      "jobs": [
+        {
+          "company": "United Stated Department of the Interior",
+          "end_day": "2004-06-14T00:00:00.000Z",
+          "position": "IT Specialist",
+          "start_day": "2001-06-01T00:00:00.000Z"
+        },
+        {
+          "company": "JPMorgan Chase",
+          "end_day": "2006-05-01T00:00:00.000Z",
+          "position": "Application Developer",
+          "start_day": "2004-06-15T00:00:00.000Z"
+        },
+        {
+          "company": "Veloc-IT",
+          "end_day": "2007-09-01T00:00:00.000Z",
+          "position": "Lead Developer",
+          "start_day": "2006-05-02T00:00:00.000Z"
+        },
+        {
+          "company": "Quick Solutions",
+          "end_day": "2009-02-13T00:00:00.000Z",
+          "position": "Senior Developer",
+          "start_day": "2007-09-02T00:00:00.000Z"
+        },
+        {
+          "company": "VersionOne",
+          "end_day": "2012-02-03T00:00:00.000Z",
+          "position": "Developer and Agent of Change",
+          "start_day": "2009-02-16T00:00:00.000Z"
+        },
+        {
+          "company": "Highgroove Studios",
+          "end_day": "2012-11-01T00:00:00.000Z",
+          "position": "Developer and Developerer",
+          "start_day": "2012-02-06T00:00:00.000Z"
+        },
+        {
+          "company": "Big Nerd Ranch",
+          "end_day": "2015-08-21T00:00:00.000Z",
+          "position": "Director of Engineering, Backend Web",
+          "start_day": "2012-11-01T00:00:00.000Z"
+        },
+        {
+          "company": "DirtJockey",
+          "end_day": null,
+          "position": "Co-founder",
+          "start_day": "2015-08-21T00:00:00.000Z"
+        }
+      ],
+      "name": "Steven Harman",
+      "url": "http://stevenharman.net"
+    },
+    {
+      "education": [
+        {
+          "end_day": "2012-05-22T00:00:00.000Z",
+          "institution": "Georgia Tech",
+          "start_day": "2008-06-25T00:00:00.000Z",
+          "studied": "Computer Science"
+        }
+      ],
+      "email": "wcfarrington@gmail.com",
+      "jobs": [
+        {
+          "company": "Rails Machine",
+          "end_day": "2011-12-01T00:00:00.000Z",
+          "position": "Engineer",
+          "start_day": "2009-06-15T00:00:00.000Z"
+        },
+        {
+          "company": "Highgroove Studios",
+          "end_day": "2012-05-15T00:00:00.000Z",
+          "position": "Developer",
+          "start_day": "2012-01-01T00:00:00.000Z"
+        },
+        {
+          "company": "GitHub",
+          "end_day": "2014-05-28T00:00:00.000Z",
+          "position": "Operations Engineer",
+          "start_day": "2012-05-28T00:00:00.000Z"
+        },
+        {
+          "company": "DigitalOcean",
+          "end_day": "2015-12-15T00:00:00.000Z",
+          "position": "Site Reliability Engineer",
+          "start_day": "2015-06-09T00:00:00.000Z"
+        },
+        {
+          "company": "Operable",
+          "end_day": "2015-05-15T00:00:00.000Z",
+          "position": "Engineer",
+          "start_day": "2015-03-01T00:00:00.000Z"
+        },
+        {
+          "company": "Will Farrington",
+          "end_day": null,
+          "position": "Independent Contractor",
+          "start_day": "2015-08-28T00:00:00.000Z"
+        }
+      ],
+      "name": "Will Farrington",
+      "url": "http://willfarrington.com/"
+    },
+    {
+      "education": [
+        {
+          "degree": "BS Computer Science",
+          "end_day": "2010-05-01T00:00:00.000Z",
+          "institution": "Georgia Tech",
+          "start_day": "2005-08-01T00:00:00.000Z"
+        }
+      ],
+      "email": "example@example.com",
+      "jobs": [
+        {
+          "company": "The Zac Team",
+          "end_day": "2006-05-01T00:00:00.000Z",
+          "position": "IT Intern",
+          "start_day": "2006-01-01T00:00:00.000Z"
+        },
+        {
+          "company": "TaxSlayer",
+          "end_day": "2007-01-01T00:00:00.000Z",
+          "position": "Junior Software Dev",
+          "start_day": "2006-08-01T00:00:00.000Z"
+        },
+        {
+          "company": "Hannon Hill",
+          "end_day": "2010-04-01T00:00:00.000Z",
+          "position": "Junior Software Dev",
+          "start_day": "2007-05-01T00:00:00.000Z"
+        },
+        {
+          "company": "Factset Research Systems",
+          "end_day": "2011-07-01T00:00:00.000Z",
+          "position": "Systems Analyst",
+          "start_day": "2010-07-01T00:00:00.000Z"
+        },
+        {
+          "company": "HCL / T-Mobile",
+          "end_day": "2011-10-01T00:00:00.000Z",
+          "position": "Software Devloper",
+          "start_day": "2011-07-15T00:00:00.000Z"
+        },
+        {
+          "company": "Highgroove Studios",
+          "end_day": "2012-11-01T00:00:00.000Z",
+          "position": "Developer and Developer Evangelist",
+          "start_day": "2011-10-03T00:00:00.000Z"
+        },
+        {
+          "company": "Big Nerd Ranch",
+          "end_day": "2014-07-15T00:00:00.000Z",
+          "position": "Director of Consulting Operations",
+          "start_day": "2012-11-01T00:00:00.000Z"
+        },
+        {
+          "company": "Blue Bottle Coffee",
+          "end_day": "2015-02-15T00:00:00.000Z",
+          "position": "Software Developer",
+          "start_day": "2014-10-01T00:00:00.000Z"
+        },
+        {
+          "company": "Roadie",
+          "end_day": "2015-07-10T00:00:00.000Z",
+          "position": "Lead Backend Developer",
+          "start_day": "2015-03-15T00:00:00.000Z"
+        },
+        {
+          "company": "Mailchimp",
+          "end_day": null,
+          "position": "Software Engineer",
+          "start_day": "2015-07-20T00:00:00.000Z"
+        }
+      ],
+      "name": "Aubrey Rhodes",
+      "url": "http://acrhodes.com/"
+    },
+    {
+      "education": [
+        {
+          "end_day": "2012-05-22T00:00:00.000Z",
+          "institution": "Georgia Tech",
+          "start_day": "2008-08-01T00:00:00.000Z",
+          "studied": "BS Computer Science"
+        }
+      ],
+      "email": "mike.skalnik@gmail.com",
+      "jobs": [
+        {
+          "company": "Rails Machine",
+          "end_day": "2011-03-24T00:00:00.000Z",
+          "position": "Awesomeness Engineer",
+          "start_day": "2009-09-20T00:00:00.000Z"
+        },
+        {
+          "company": "Highgroove Studios",
+          "end_day": "2012-05-30T00:00:00.000Z",
+          "position": "Developer",
+          "start_day": "2011-03-25T00:00:00.000Z"
+        },
+        {
+          "company": "GitHub",
+          "end_day": null,
+          "position": "Developer",
+          "start_day": "2012-06-01T00:00:00.000Z"
+        }
+      ],
+      "name": "Mike Skalnik",
+      "url": "http://mikeskalnik.com"
+    },
+    {
+      "education": [
+        {
+          "degree": "BS Mathematics",
+          "end_day": null,
+          "institution": "University of New Mexico",
+          "start_day": null
+        },
+        {
+          "degree": "MS Mathematics",
+          "end_day": null,
+          "institution": "University of New Mexico",
+          "start_day": null
+        }
+      ],
+      "email": "fixintheworld@gmail.com",
+      "jobs": [
+        {
+          "company": "Linium",
+          "end_day": "2008-03-31T00:00:00.000Z",
+          "position": "Solutions Engineer",
+          "start_day": "2007-02-01T00:00:00.000Z"
+        },
+        {
+          "company": "University of Tennessee",
+          "end_day": "2011-08-15T00:00:00.000Z",
+          "position": "Network Engineer",
+          "start_day": "2008-04-01T00:00:00.000Z"
+        },
+        {
+          "company": "Highgroove Studios",
+          "end_day": "2012-11-01T00:00:00.000Z",
+          "position": "Developer",
+          "start_day": "2011-08-16T00:00:00.000Z"
+        },
+        {
+          "company": "Big Nerd Ranch",
+          "end_day": "2013-09-10T00:00:00.000Z",
+          "position": "Developer and Security Engineer",
+          "start_day": "2012-11-01T00:00:00.000Z"
+        },
+        {
+          "company": "Mandiant / FireEye",
+          "end_day": "2014-04-10T00:00:00.000Z",
+          "position": "Senior Software Engineer - Malware Analysis",
+          "start_day": "2013-09-10T00:00:00.000Z"
+        },
+        {
+          "company": "Peak Hosting",
+          "end_day": "2014-10-15T00:00:00.000Z",
+          "position": "Senior Software Engineer / Engineering Manager",
+          "start_day": "2014-04-10T00:00:00.000Z"
+        },
+        {
+          "company": "DigitalOcean",
+          "end_day": null,
+          "position": "Software Engineer -> Engineering Manager",
+          "start_day": "2014-10-15T00:00:00.000Z"
+        }
+      ],
+      "name": "David Worth",
+      "url": "http://daveworth.github.io/"
+    },
+    {
+      "education": [
+        {
+          "degree": "BS Chemistry",
+          "end_day": "2005-05-01T00:00:00.000Z",
+          "institution": "Southwestern University",
+          "start_day": "2002-08-01T00:00:00.000Z"
+        },
+        {
+          "degree": "PhD Physical Chemistry",
+          "end_day": "2011-05-01T00:00:00.000Z",
+          "institution": "University of Southern California",
+          "start_day": "2005-08-01T00:00:00.000Z"
+        }
+      ],
+      "email": "blithe@blitherocher.com",
+      "jobs": [
+        {
+          "company": "Emory University",
+          "end_day": "2013-05-10T00:00:00.000Z",
+          "position": "Postdoctoral Fellow",
+          "start_day": "2011-06-11T00:00:00.000Z"
+        },
+        {
+          "company": "Big Nerd Ranch",
+          "end_day": "2014-10-14T00:00:00.000Z",
+          "position": "Developer Intern, Web Application Developer",
+          "start_day": "2013-05-13T00:00:00.000Z"
+        },
+        {
+          "company": "The Groundwork",
+          "end_day": "2015-07-10T00:00:00.000Z",
+          "position": "Software Engineer",
+          "start_day": "2014-10-20T00:00:00.000Z"
+        },
+        {
+          "company": "Fastly",
+          "end_day": null,
+          "position": "Software Engineer",
+          "start_day": "2015-07-20T00:00:00.000Z"
+        }
+      ],
+      "name": "Blithe Rocher",
+      "url": "http://blitherocher.com/"
+    },
+    {
+      "email": "zgstewart@gmail.com",
+      "jobs": [
+        {
+          "company": "NeboWeb (now Nebo Agency)",
+          "end_day": "2011-07-06T00:00:00.000Z",
+          "position": "Web Developer Intern",
+          "start_day": "2010-09-01T00:00:00.000Z"
+        },
+        {
+          "company": "Emcien",
+          "end_day": "2012-07-25T00:00:00.000Z",
+          "position": "Software Engineer",
+          "start_day": "2011-07-11T00:00:00.000Z"
+        },
+        {
+          "company": "Highgroove Studios",
+          "end_day": "2012-11-01T00:00:00.000Z",
+          "position": "Developer",
+          "start_day": "2012-08-01T00:00:00.000Z"
+        },
+        {
+          "company": "Big Nerd Ranch",
+          "end_day": "2015-02-24T00:00:00.000Z",
+          "position": "Developer, Instructor",
+          "start_day": "2012-11-01T00:00:00.000Z"
+        },
+        {
+          "company": "Springbot",
+          "end_day": "2015-04-30T00:00:00.000Z",
+          "position": "Senior Developer",
+          "start_day": "2015-02-25T00:00:00.000Z"
+        },
+        {
+          "company": "Self",
+          "end_day": "2015-08-12T00:00:00.000Z",
+          "position": "Software Consultant",
+          "start_day": "2015-05-01T00:00:00.000Z"
+        },
+        {
+          "company": "DirtJockey",
+          "end_day": null,
+          "position": "Co-Founder",
+          "start_day": "2015-08-12T00:00:00.000Z"
+        }
+      ],
+      "name": "Zac Stewart",
+      "url": "http://zacstewart.com"
+    },
+    {
+      "education": [
+        {
+          "degree": "BA Philosophy",
+          "end_day": "2002-05-01T00:00:00.000Z",
+          "institution": "Samford University",
+          "start_day": "1998-08-01T00:00:00.000Z"
+        },
+        {
+          "degree": "MA Philosophy",
+          "end_day": "2004-05-01T00:00:00.000Z",
+          "institution": "Texas A&M University",
+          "start_day": "2002-08-01T00:00:00.000Z"
+        },
+        {
+          "degree": "Ph.D. Philosophy",
+          "end_day": "2009-05-01T00:00:00.000Z",
+          "institution": "University of Virginia",
+          "start_day": "2004-08-01T00:00:00.000Z"
+        }
+      ],
+      "email": "charlie.tanksley@gmail.com",
+      "jobs": [
+        {
+          "company": "Clemson University",
+          "end_day": "2012-05-01T00:00:00.000Z",
+          "position": "Visiting Lecturer",
+          "start_day": "2010-08-01T00:00:00.000Z"
+        },
+        {
+          "company": "Highgroove Studios",
+          "end_day": "2012-10-31T00:00:00.000Z",
+          "position": "Developer",
+          "start_day": "2012-08-01T00:00:00.000Z"
+        },
+        {
+          "company": "Big Nerd Ranch",
+          "end_day": "2014-05-01T00:00:00.000Z",
+          "position": "Developer",
+          "start_day": "2012-11-01T00:00:00.000Z"
+        },
+        {
+          "company": "InQuicker",
+          "end_day": null,
+          "position": "Developer",
+          "start_day": "2014-06-01T00:00:00.000Z"
+        }
+      ],
+      "name": "Charlie Tanksley",
+      "url": "http://tanksley.me"
+    },
+    {
+      "education": [
+        {
+          "degree": "BS Computer Science",
+          "end_day": "2010-05-01T00:00:00.000Z",
+          "institution": "UAH",
+          "start_day": "2005-08-01T00:00:00.000Z"
+        }
+      ],
+      "email": "ur@iamvery.com",
+      "jobs": [
+        {
+          "company": "Dynetics",
+          "end_day": "2013-02-08T00:00:00.000Z",
+          "position": "IT, Computer Analyst (\"haha business\" for developer)",
+          "start_day": "2006-01-01T00:00:00.000Z"
+        },
+        {
+          "company": "Big Nerd Ranch",
+          "end_day": null,
+          "position": "Developer, Instructor",
+          "start_day": "2013-02-08T00:00:00.000Z"
+        }
+      ],
+      "name": "Jay Hayes",
+      "url": "http://iamvery.com"
+    },
+    {
+      "education": [
+        {
+          "degree": "BA Economics",
+          "end_day": "2011-05-08T00:00:00.000Z",
+          "institution": "Emory University",
+          "start_day": "2007-08-30T00:00:00.000Z"
+        },
+        {
+          "end_day": "2013-07-20T00:00:00.000Z",
+          "institution": "Turing (formerly gSchool)",
+          "start_day": "2013-01-28T00:00:00.000Z"
+        }
+      ],
+      "email": "gschorkopf@gmail.com",
+      "jobs": [
+        {
+          "company": "Google",
+          "end_day": "2013-01-25T00:00:00.000Z",
+          "position": "Policy Sales Associate",
+          "start_day": "2011-08-01T00:00:00.000Z"
+        },
+        {
+          "company": "Big Nerd Ranch",
+          "end_day": null,
+          "position": "Developer / Coffee-maker",
+          "start_day": "2013-09-04T00:00:00.000Z"
+        }
+      ],
+      "name": "Geoffrey Schorkopf",
+      "url": "http://four-point-play.com"
+    },
+    {
+      "education": [
+        {
+          "degree": "BA Philosophy",
+          "end_day": "2009-08-01T00:00:00.000Z",
+          "institution": "Georgia State",
+          "start_day": "2005-08-01T00:00:00.000Z"
+        },
+        {
+          "degree": "MS Physics",
+          "end_day": "2012-05-01T00:00:00.000Z",
+          "institution": "Georgia State",
+          "start_day": "2009-08-01T00:00:00.000Z"
+        }
+      ],
+      "email": "greggroth@gmail.com",
+      "jobs": [
+        {
+          "company": "Highgroove Studios",
+          "end_day": "2012-11-01T00:00:00.000Z",
+          "position": "Developer",
+          "start_day": "2012-05-01T00:00:00.000Z"
+        },
+        {
+          "company": "Big Nerd Ranch",
+          "end_day": "2014-02-01T00:00:00.000Z",
+          "position": "Developer",
+          "start_day": "2012-11-01T00:00:00.000Z"
+        },
+        {
+          "company": "Goodsearch",
+          "end_day": "2014-08-06T00:00:00.000Z",
+          "position": "Developer",
+          "start_day": "2014-02-01T00:00:00.000Z"
+        },
+        {
+          "company": "Blue Bottle Coffee",
+          "end_day": null,
+          "position": "Developer",
+          "start_day": "2014-08-06T00:00:00.000Z"
+        }
+      ],
+      "name": "Greggory Rothmeier",
+      "url": "https://github.com/greggroth"
+    },
+    {
+      "education": [
+        {
+          "degree": "BA International Affairs",
+          "end_day": "2006-12-31T00:00:00.000Z",
+          "institution": "University of Georgia",
+          "start_day": "2003-08-01T00:00:00.000Z"
+        }
+      ],
+      "email": "marcusowens@gmail.com",
+      "jobs": [
+        {
+          "company": "Optimus Solutions/Softchoice",
+          "end_day": "2011-07-15T00:00:00.000Z",
+          "position": "Sales / MS Licensing Specialist / Technical Service Advisor",
+          "start_day": "2007-01-01T00:00:00.000Z"
+        },
+        {
+          "company": "United Technology Group",
+          "end_day": "2011-12-15T00:00:00.000Z",
+          "position": "Sales Engineer",
+          "start_day": "2011-07-18T00:00:00.000Z"
+        },
+        {
+          "company": "Corus 360",
+          "end_day": "2013-09-30T00:00:00.000Z",
+          "position": "Account Executive",
+          "start_day": "2012-01-01T00:00:00.000Z"
+        },
+        {
+          "company": "Big Nerd Ranch",
+          "end_day": "2014-06-13T00:00:00.000Z",
+          "position": "Project Strategist",
+          "start_day": "2013-10-01T00:00:00.000Z"
+        },
+        {
+          "company": "Digital Insight / NCR",
+          "end_day": null,
+          "position": "Solution Architect",
+          "start_day": "2014-07-21T00:00:00.000Z"
+        }
+      ],
+      "name": "Marcus Owens",
+      "url": "http://re.vu/mowens"
+    }
+  ]
+}
