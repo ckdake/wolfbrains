@@ -22,8 +22,7 @@
                 return date.getFullYear();
             }
 
-
-            jQuery.getJSON('http://localhost:8000/data.json', function (result) {
+            jQuery.getJSON('http://ckdake.github.io/wolfbrains/data.json', function (result) {
                 nativeObject = result;
                 nativeObject.people.forEach(function (peopleEntry) {
                     peopleEntry.jobs.forEach(function (jobEntry) {
