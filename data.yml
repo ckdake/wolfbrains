@@ -530,3 +530,44 @@ people:
   - company: Peachtree Medical Billing
     position: Director of Engineering
     start_day: 2015-06-01
+- name: Daniel Rice
+  email: daniel.rice@ldstudios.co
+  url: http://www.danielrice.codes/
+  education:
+  - undergraduate: Georgia Tech
+    degree: BS Applied Psychology
+    start_day: 2001-08-01
+    end_day: 2005-05-01
+  jobs:
+  - company: Outdoor Recreation Georgia Tech (ORGT)
+    position: Wilderness Outpost Attendant
+    start_day: 2003-08-01
+    end_day: 2005-05-01
+  - company: Georgia Tech School of Psychology 
+    position: Psycholinguistics Laboratory Assistant
+    start_day: 2003-08-01
+    end_day: 2005-05-01
+  - company: Borland Software Corporation 
+    position: Technical Support Engineer
+    start_day: 2006-05-01
+    end_day: 2009-09-31
+  - company: Noble Systems Corporation 
+    position: Implementation Engineering Team Lead
+    start_day: 2009-10-01
+    end_day: 2011-04-30
+  - company: Highgroove Studios 
+    position: Developer and Sales Engineer
+    start_day: 2011-05-01
+    end_day: 2012-10-31
+  - company: Big Nerd Ranch
+    position: Developer and Sales Engineer
+    start_day: 2012-11-01
+    end_day: 2014-03-31
+  - company: Capgemini US
+    position: Senior Consultant
+    start_day: 2014-04-01
+    end_day: 2014-10-31
+  - company: LD Studios 
+    position: Founding Partner and CTO
+    start_day: 2014-07-14
+    end_day: 
