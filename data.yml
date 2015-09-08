@@ -117,7 +117,8 @@ people:
   email: steven@harmanly.com
   url: http://stevenharman.net
   education:
-  - institution: BS Computer Science and Engineering
+  - institution: The Ohio State University
+    degree: BS Computer Science and Engineering
     start_day: 1999-09-22
     end_day: 2004-09-02
   jobs:
