@@ -535,7 +535,7 @@ people:
   email: daniel.rice@ldstudios.co
   url: http://www.danielrice.codes/
   education:
-  - undergraduate: Georgia Tech
+  - institution: Georgia Tech
     degree: BS Applied Psychology
     start_day: 2001-08-01
     end_day: 2005-05-01
@@ -576,7 +576,7 @@ people:
   email: patrick@vanstee.me
   url: http://vanstee.me
   education:
-  - undergraduate: Clemson University
+  - institution: Clemson University
     degree: BS Computer Science
     start_day: 2007-08-01
     end_day: 2011-05-01
