@@ -186,6 +186,10 @@ people:
   - company: Will Farrington
     position: Independent Contractor
     start_day: 2015-08-28
+    end_day: 2015-10-05
+  - company: MailChimp
+    position: Infrastructure Engineer
+    start_day: 2015-10-05
     end_day:
 - name: Aubrey Rhodes
   email: example@example.com
