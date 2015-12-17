@@ -572,4 +572,40 @@ people:
     position: Founding Partner and CTO
     start_day: 2014-07-14
     end_day:
-
+- name: Patrick Van Stee
+  email: patrick@vanstee.me
+  url: http://vanstee.me
+  education:
+  - undergraduate: Clemson University
+    degree: BS Computer Science
+    start_day: 2007-08-01
+    end_day: 2011-05-01
+  jobs:
+  - company: Hawkes Learning Systems
+    position: Software Development Intern
+    start_day: 2009-06-01
+    end_day: 2011-09-01
+  - company: Clemson University
+    position: Undergraduate Research
+    start_day: 2009-08-01
+    end_day: 2011-01-01
+  - company: Zurb
+    position: Ruby and JavaScript Developer
+    start_day: 2010-01-01
+    end_day: 2011-03-01
+  - company: Highgroove Studios
+    position: Software Developer
+    start_day: 2011-06-01
+    end_day: 2012-10-31
+  - company: Big Nerd Ranch
+    position: Software Developer
+    start_day: 2012-11-01
+    end_day: 2014-01-01
+  - company: Assembly
+    position: Product Developer
+    start_day: 2014-01-01
+    end_day: 2015-04-01
+  - company: Operable
+    position: Software Developer
+    start_day: 2015-04-01
+    end_day:
