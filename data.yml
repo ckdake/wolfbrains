@@ -432,6 +432,10 @@ people:
   - company: Big Nerd Ranch
     position: Developer / Coffee-maker
     start_day: 2013-09-04
+    end_day: 2016-04-05
+  - company: Fastly
+    position: Software Developer
+    start_day: 2016-04-11
     end_day:
 - name: Greggory Rothmeier
   email: greggroth@gmail.com
