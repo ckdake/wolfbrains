@@ -80,6 +80,10 @@ people:
   - company: The Iron Yard
     position: Backend Instructor
     start_day: 2015-06-24
+    end_day: 2015-12-04
+  - company: Google
+    position: Android Engineer
+    start_day: 2015-12-14
 - name: Pamela O. Vickers
   email: pwnela@gmail.com
   url: http://pwnela.com/
