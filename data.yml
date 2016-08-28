@@ -621,3 +621,23 @@ people:
     position: Software Developer
     start_day: 2015-04-01
     end_day:
+- name: Matt Todd
+  email: chiology@gmail.com
+  url: http://maraby.org/
+  education:
+  - institution: Clayton State University
+    start_day: 2007-08-01
+    end_day: 2006-05-01
+  jobs:
+  - company: "Clayton State University: The HUB"
+    position: IT Support & Developer
+    start_day: 2004-08-23
+    end_day: 2008-05-02
+  - company: Highgroove Studios
+    position: Web Developer
+    start_day: 2008-05-05
+    end_day: 2011-06-03
+  - company: GitHub
+    position: Web Engineer
+    start_day: 2011-06-06
+    end_day:
