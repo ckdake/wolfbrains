@@ -49,7 +49,7 @@ people:
     start_day: 2012-11-01
     end_day: 2015-01-16
   - company: Salesforce Pardot
-    position: Software Engineering Manager
+    position: Senior Manager, Software Engineering
     start_day: 2015-01-16
     end_day:
 - name: Kurt Nelson
@@ -240,7 +240,7 @@ people:
     position: Lead Backend Developer
     start_day: 2015-03-15
     end_day: 2015-07-10
-  - company: Mailchimp
+  - company: MailChimp
     position: Software Engineer
     start_day: 2015-07-20
     end_day:
