@@ -641,3 +641,32 @@ people:
     position: Web Engineer
     start_day: 2011-06-06
     end_day:
+- name: Bree Elle Gardner
+  email: letsbreelhere@gmail.com
+  url:
+  education:
+  - institution: New College of Florida
+    degree: BA Mathematics
+    start_day: 2007-08-01
+    end_day: 2011-05-01
+  jobs:
+  - company: FAU
+    position: IRM Tech
+    start_day: 2011-05-16
+    end_day: 2011-07-29
+  - company: Highgroove Studios
+    position: Software Developer
+    start_day: 2011-08-15
+    end_day: 2012-10-31
+  - company: Big Nerd Ranch
+    position: Software Developer
+    start_day: 2012-11-01
+    end_day: 2015-04-28
+  - company: Blue Bottle Coffee
+    position: Software Developer
+    start_day: 2015-5-04
+    end_day: 2016-04-24
+  - company: Clara
+    position: Platform Engineer
+    start_day: 2016-05-02
+    end_day:
