@@ -620,6 +620,10 @@ people:
   - company: Operable
     position: Software Developer
     start_day: 2015-04-01
+    end_day: 2017-03-31
+  - company: Salesforce
+    position: DevOps Engineer
+    start_day: 2017-04-01
     end_day:
 - name: Matt Todd
   email: chiology@gmail.com
