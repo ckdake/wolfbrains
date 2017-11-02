@@ -543,6 +543,7 @@ people:
   - company: Peachtree Medical Billing
     position: Director of Engineering
     start_day: 2015-06-01
+    end_day: 2016-10-14
   - company: Stitch Fix
     position: Principal Engineer
     start_day: 2016-10-17
