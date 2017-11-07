@@ -678,3 +678,36 @@ people:
     position: Platform Engineer
     start_day: 2016-05-02
     end_day:
+- name: Don Pottinger
+  email: don.pottinger@gmail.com
+  url: http://donpottinger.net
+  education:
+  - institution: Georgia Tech
+    degree: BS Electrical and Computer Engineering
+    start_day: 2003-08-01
+    end_day: 2008-05-01
+  jobs:
+  - company: Accenture
+    position: Analyst
+    start_day: 2008-09-01
+    end_day: 2011-07-01
+  - company: Slalom Consulting
+    position: Consultant
+    start_day: 2011-08-01
+    end_day: 2012-03-11
+  - company: Highgroove Studios
+    position: Software Developer
+    start_day: 2011-04-01
+    end_day: 2012-10-31
+  - company: Big Nerd Ranch
+    position: Backend Web Team Manager and Software Engineer
+    start_day: 2012-11-01
+    end_day: 2014-11-01
+  - company: Kevy
+    position: CTO
+    start_day: 2014-12-01
+    end_day: 2016-09-30
+  - company: Lytham Labs
+    position: Founder and CEO
+    start_day: 2016-10-01
+    end_day:
