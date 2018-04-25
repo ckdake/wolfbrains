@@ -416,7 +416,10 @@ people:
   - company: Big Nerd Ranch
     position: Developer, Instructor
     start_day: 2013-02-08
-    end_day:
+    end_day: 2018-01-12
+  - company: Stitch Fix
+    position: Lead Engineer
+    start_day: 2018-01-16
 - name: Geoffrey Schorkopf
   email: gschorkopf@gmail.com
   url: http://four-point-play.com
