@@ -51,7 +51,11 @@ people:
   - company: Salesforce
     position: Senior Manager, Software Engineering
     start_day: 2015-01-16
-    end_day:
+    end_day: 2018-02-23
+  - company: Bridgewater Associates
+    position: Technology General Manager
+    start_day: 2018-03-12 
+    end_day: 
 - name: Kurt Nelson
   email: kurtisnelson@gmail.com
   url: http://thisisnotajoke.com
