@@ -370,6 +370,10 @@ people:
   - company: DirtJockey
     position: Co-Founder
     start_day: 2015-08-12
+    end_day: 2017-07-01
+  - company: Salesforce
+    position: Senior Engineer
+    start_day: 2017-10-12
     end_day:
 - name: Charlie Tanksley
   email: charlie.tanksley@gmail.com
