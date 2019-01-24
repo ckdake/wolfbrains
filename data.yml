@@ -688,6 +688,18 @@ people:
   - company: Clara
     position: Platform Engineer
     start_day: 2016-05-02
+    end_day: 2017-04-01
+  - company: Lantern
+    position: Frontend Engineer
+    start_day: 2017-05-01
+    end_day: 2017-10-15
+  - company: Cloud City Development
+    position: Consultant
+    start_day: 2017-10-30
+    end_day: 2018-12-20
+  - company: Nurx
+    position: Full Stack Engineer
+    start_day: 2019-01-07
     end_day:
 - name: Don Pottinger
   email: don.pottinger@gmail.com
