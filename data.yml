@@ -336,8 +336,16 @@ people:
     start_day: 2014-10-20
     end_day: 2015-07-10
   - company: Fastly
-    position: Software Engineer
+    position: Software Engineer, Engineering Manager, Senior Engineering Manager
     start_day: 2015-07-20
+    end_day: 2019-11-15
+  - company: Looker
+    position: Engineering Manager
+    start_day: 2019-11-18
+    end_day: 2020-03-01
+  - company: Google
+    position: Engineering Manager
+    start_day: 2019-03-02
     end_day:
 - name: Zac Stewart
   email: zgstewart@gmail.com
