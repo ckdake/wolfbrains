@@ -55,7 +55,11 @@ people:
   - company: Bridgewater Associates
     position: Technology General Manager
     start_day: 2018-03-12 
-    end_day: 
+    end_day: 2020-04-17
+  - company: Zenput
+    position: Director of Engineering
+    start_day: 2020-05-26
+    end_day:
 - name: Kurt Nelson
   email: kurtisnelson@gmail.com
   url: http://thisisnotajoke.com
