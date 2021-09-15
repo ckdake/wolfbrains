@@ -163,9 +163,17 @@ people:
     start_day: 2012-11-01
     end_day: 2015-08-21
   - company: DirtJockey
-    position: Co-founder
+    position: Co-founder & Engineer
     start_day: 2015-08-21
-    end_day:
+    end_day: 2017-03-01
+  - company: Humrun
+    position: Principle Engineer & CTO
+    start_day: 2017-03-01
+    end_day: 2019-01-06
+  - company: Heroku/Salesforce
+    position: Engineer
+    start_day: 2019-01-07
+    end_day: 
 - name: Will Farrington
   email: wcfarrington@gmail.com
   url: http://willfarrington.com/
