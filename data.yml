@@ -170,8 +170,8 @@ people:
     position: Principle Engineer & CTO
     start_day: 2017-03-01
     end_day: 2019-01-06
-  - company: Heroku/Salesforce
-    position: Engineer
+  - company: Salesforce
+    position: Engineer (Heroku)
     start_day: 2019-01-07
     end_day: 
 - name: Will Farrington
