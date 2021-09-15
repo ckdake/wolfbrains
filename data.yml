@@ -610,6 +610,10 @@ people:
   - company: LD Studios
     position: Founding Partner and CTO
     start_day: 2014-07-14
+    end_day: 2021-08-31
+  - company: Pure Coastal Development LLC (Provalet)
+    position: CTO & Board Member
+    start_day: 2021-09-01
     end_day:
 - name: Patrick Van Stee
   email: patrick@vanstee.me
