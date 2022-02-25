@@ -578,6 +578,18 @@ people:
   - company: Stitch Fix
     position: Principal Engineer
     start_day: 2016-10-17
+    end_day: 2017-01-31
+  - company: Georgia General Assembly
+    position: House Representative for District 119
+    start_day: 2017-11-27
+    end_day: 2019-01-13
+  - company: Softgiving
+    position: VP of Engineering
+    start_day: 2017-03-01
+    end_day: 2019-06-07
+  - company: GitHub
+    position: Senior Software Engineer
+    start_day: 2019-06-18
 - name: Daniel Rice
   email: daniel.rice@ldstudios.co
   url: http://www.danielrice.codes/
