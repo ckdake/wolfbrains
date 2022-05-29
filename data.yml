@@ -325,7 +325,30 @@ people:
   - company: DigitalOcean
     position: Software Engineer -> Engineering Manager
     start_day: 2014-10-15
-    end_day:
+    end_day: 2016-02-01
+  - company: DigitalOcean
+    position: Tech Lead
+    start_day: 2016-02-01
+    end_day: 2018-06-01
+  - company: Strava
+    position: Eng Lead & Sr. SRE
+    start_day: 2018-06-01
+    end_day: 2020-02-01
+  - company: Strava
+    position: Sr. Engineering Manager (platform / infrastructure)
+    start_day: 2020-02-01
+    end_day: 2020-09-01
+  - company: Strava
+    position: Sr. Engineering Manager (data platform / engineering)
+    start_day: 2020-09-01
+    end_day: 2021-01-07
+  - company: SS&C
+    position: Principal Engineer (cloud platform)
+    start_day: 2021-01-07
+    end_day: 2021-10-15
+  - company: Statype
+    position: Founder / VP. Engineering.
+    start_day: 2021-10-21
 - name: Blithe Rocher
   email: blithe@blitherocher.com
   url: http://blitherocher.com/
